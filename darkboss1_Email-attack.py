@@ -9,7 +9,7 @@ print("""\033[1;32m
 
           System Maker :: darkboss1
 \033[1;31m════════════════════════════════════════════
-\033[1;33m[•] Tool Name    : Email Attack
+\033[1;33m[•] Tool Name    : Darkboss1 Email Attack
 [•] Developed By : darkboss1
 [•] GitHub       : github.com/darkboss1
 [•] Version      : 2.1.1
